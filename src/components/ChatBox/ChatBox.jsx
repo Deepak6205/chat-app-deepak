@@ -151,7 +151,6 @@ const ChatBox = () => {
             </div>
           </div>
         ))}
-        ;
       </div>
 
       <div className="chat-input">
